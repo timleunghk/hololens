@@ -1,0 +1,1 @@
+C:\Source Codes\Hololens Native\Hololens-AR-Video\App-3D-Fastest-Rendering-Loop\Shang AR Demo\Shang AR Demo.csproj;x86
